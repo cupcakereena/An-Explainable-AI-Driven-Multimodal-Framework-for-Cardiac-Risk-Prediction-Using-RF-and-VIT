@@ -1,0 +1,5 @@
+[
+  "cardiac_risk_prediction/backend/tests/test_endpoints.py::test_dashboard_requires_auth",
+  "cardiac_risk_prediction/backend/tests/test_endpoints.py::test_dashboard_with_token_returns_json",
+  "cardiac_risk_prediction/backend/tests/test_endpoints.py::test_simulate_requires_auth"
+]
